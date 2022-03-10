@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(238, 237, 237);
+    border-bottom: 2px solid rgb(228, 171, 13);
+}
+
+img {
+width: 20%;
+display: block;
+margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 1%;
+    font-size: 130%;
+}
+
+h2 {
+    color:rgb(228, 171, 13);
+}
+
+h3 {
+    font-style: italic;
+    font-style: oblique;
+    font-weight: 4000;
+}
+
+section {
+    border-bottom: 1px solid rgb(228, 171, 13); 
+}
+
+#conclusion {
+    text-align: center;
+    font-size:small;
+}
+.center {
+    margin: 0 18% 0 18%;
+}
