@@ -3,6 +3,10 @@ header {
     border-bottom: 2px solid rgb(228, 171, 13);
 }
 
+body {
+margin-top: 0%;
+}
+
 img {
 width: 20%;
 display: block;
@@ -22,7 +26,7 @@ h2 {
 h3 {
     font-style: italic;
     font-style: oblique;
-    font-weight: 4000;
+    font-weight:bold;
 }
 
 section {
@@ -32,7 +36,7 @@ section {
 #conclusion {
     text-align: center;
     font-size:small;
-    margin-bottom: 7%;
+    margin-bottom: 7%;  
 }
 .center {
     margin: 0 18% 0 18%;
